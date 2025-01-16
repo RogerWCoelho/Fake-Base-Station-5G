@@ -8,6 +8,7 @@ Abaixo, você encontrará links para acessar a publicação completa do dataset 
 
 Sinta-se à vontade para explorar, contribuir e adaptar os códigos conforme necessário para suas pesquisas ou projetos relacionados a redes 5G e aprendizado de máquina.
 
+************************************************************************************************************************************************************************
 
 This repository contains the source code developed for the doctoral thesis presented in the graduate program in Computer Science at the State University of Maringá. The thesis explores the application of supervised machine learning techniques in the detection of Base Station (BS) stations, considering the connection through the N2 Interface and the SCTP protocol in 5G Standalone (SA) networks. The central goal of the research was to use supervised learning algorithms to accurately identify and classify false BS stations.
 
@@ -17,6 +18,8 @@ Below, you will find links to access the full the dataset used for the developme
 
 Feel free to explore, contribute, and adapt the code as needed for your research or projects related to 5G networks and machine learning.
 
+
+************************************************************************************************************************************************************************
 
 *Link para a base de dados (Link to the dataset): https://dx.doi.org/10.21227/rgb4-fk52
 
