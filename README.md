@@ -19,3 +19,7 @@ Feel free to explore, contribute, and adapt the code as needed for your research
 
 
 *Link para a base de dados (Link to the dataset): https://dx.doi.org/10.21227/rgb4-fk52
+
+
+Agência Financiadora (Funding Agency): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)
+Número da concessão (Grant Number): 88887.941768/2024-00
