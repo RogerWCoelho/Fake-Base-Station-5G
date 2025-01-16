@@ -17,5 +17,5 @@ Below, you will find links to access the full the dataset used for the developme
 
 Feel free to explore, contribute, and adapt the code as needed for your research or projects related to 5G networks and machine learning.
 
-Link
-    *Link para a base de dados (Link to the dataset): https://dx.doi.org/10.21227/rgb4-fk52
+
+*Link para a base de dados (Link to the dataset): https://dx.doi.org/10.21227/rgb4-fk52
